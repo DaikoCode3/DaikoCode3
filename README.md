@@ -7,7 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=Fask&theme=dark)](https://github.com/DaikoCode3/Fask)
 
-### **『🪴』 𝐈 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤 𝐨𝐧:** 
+### **『🪴』𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:** 
 - **Multiplatform applications**
 - **Console applications**
 - **Scripts**
