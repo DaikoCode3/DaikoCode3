@@ -3,7 +3,7 @@
 
 ***The quick brown fox jumps over the lazy dog.***
 
-### 『📦』**𝐏𝐢𝐧𝐧𝐞𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬:**
+### 『📦』**𝐏𝐢𝐧𝐧𝐞𝐝 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=Fask&theme=dark)](https://github.com/DaikoCode3/Fask)
 
