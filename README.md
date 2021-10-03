@@ -21,7 +21,7 @@
 **JavaScript** | **VSCode**
 **Python** | **Electron**
 **C#** | **Unity**
-**C++** | **SublimeText**
+**C++** | **Git(wow)**
 **C** | **SQlite**
 **PHP** | **Html, Css, Xaml**
 
