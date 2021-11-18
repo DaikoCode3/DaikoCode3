@@ -6,8 +6,8 @@
 ### 『📦』**𝐏𝐢𝐧𝐧𝐞𝐝 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=Fask&theme=dark)](https://github.com/DaikoCode3/Fask)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=VoiceIT&theme=dark)](https://github.com/DaikoCode3/VoiceIT)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=VoiceIT&theme=dark)](https://github.com/DaikoCode3/VoiceIT)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=Scopa&theme=dark)](https://github.com/DaikoCode3/Scopa)
 
 
 ### **『🪴』𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:** 
