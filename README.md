@@ -3,11 +3,6 @@
 
 ***The quick brown fox jumps over the lazy dog.***
 
-### **『🪴』𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:** 
-- **Programs**
-- **Console applications**
-- **Scripts**
-- **Games**
 
 ### 『📦』**𝐏𝐢𝐧𝐧𝐞𝐝 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬:**
 
@@ -16,7 +11,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=Scopa&theme=dark)](https://github.com/DaikoCode3/Scopa)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=Campfire&theme=dark)](https://github.com/DaikoCode3/Campfire)
 
-
+### **『🪴』𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:** 
+- **Programs**
+- **Console applications**
+- **Scripts**
+- **Games**
 
 ### **『🦜』𝐅𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐬𝐭𝐮𝐟𝐟:**
 
