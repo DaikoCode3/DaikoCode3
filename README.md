@@ -5,9 +5,7 @@
 
 
 ### 『📦』**𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐓𝐚𝐛𝐥𝐞 𝐒𝐭𝐨𝐫𝐞:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaikoCode3&repo=DaikoCode3.github.io&theme=dark)](https://github.com/DaikoCode3/DaikoCode3.github.io)
-
+[<img alt="Download Table Store" width="300" src="https://i.imgur.com/uGluKUl.png"/>](http://daikoje.borec.cz/Files4Download/TableStore.zip)
 
 ### **『🪴』𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:** 
 - **Programs**
