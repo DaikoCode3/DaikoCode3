@@ -1,6 +1,6 @@
 ## **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
-  <img align="right" alt="GIF" src="https://i.imgur.com/XLoUTDF.png" width="300"/>
+  [<img align="right" alt="GIF" src="https://i.imgur.com/XLoUTDF.png" width="300"/>](http://daikoje.borec.cz/dwlinks/post/Cheese/)
   
 - Check out my web!
 - Linux is great. 
