@@ -1,4 +1,4 @@
-### **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
+## **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
   <img align="right" alt="GIF" src="https://i.imgur.com/XLoUTDF.png" width="300"/>
   
