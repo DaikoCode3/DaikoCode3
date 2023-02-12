@@ -3,7 +3,7 @@
   [<img align="right" alt="GIF" src="https://i.imgur.com/XLoUTDF.png" width="300"/>](http://daikoje.borec.cz/dwlinks/post/Cheese/)
   
 - Check out my web!
-- GNU/Linux is great. 
+- I use Arch btw! 
 
 **My favourite languages and tools I use:** 
 
