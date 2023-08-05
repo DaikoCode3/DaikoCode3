@@ -4,7 +4,7 @@
   [<img align="right" alt="GIF" src="https://i.imgur.com/XLoUTDF.png" width="300"/>](http://daikoje.borec.cz/dwlinks/post/Cheese/)
   
 - Check out my web!
-- I use Arch btw! 
+- I use Bedrock btw! 
 
 ### **『🚧』 𝙱𝚎𝚠𝚊𝚛𝚎, 𝚂𝚝𝚎𝚐𝚘𝚜𝚊𝚞𝚛𝚞𝚜!**
 
