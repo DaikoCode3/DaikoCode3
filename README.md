@@ -1,8 +1,7 @@
 ## **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
 ##### *Stuff may be under construction...*
-  [<img align="right" alt="GIF" src="https://i.imgur.com/XLoUTDF.png" width="300"/>](http://daikoje.borec.cz/dwlinks/post/Cheese/)
-  
+
 - Check out my web!
 - I use Bedrock btw! 
 
