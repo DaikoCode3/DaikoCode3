@@ -1,15 +1,15 @@
 ## **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
-##### *Stuff may be under construction...*
 
 - Check out my web!
-- I use Bedrock btw! 
+- I use Linux btw!
+- Most of my repos are private :P
 
 ### **『🚧』 𝙱𝚎𝚠𝚊𝚛𝚎, 𝚂𝚝𝚎𝚐𝚘𝚜𝚊𝚞𝚛𝚞𝚜!**
 
 ```text 
  _______________________
-< Cython is kinda dope! >
+< My hat is kinda dope! >
  -----------------------
 \                             .       .
  \                           / `.   .' " 
