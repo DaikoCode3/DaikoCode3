@@ -1,6 +1,6 @@
 # **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
-  [<img align="right" src="https://media.giphy.com/media/51Uiuy5QBZNkoF3b2Z/giphy-downsized-large.gif" width="400" height="250"/>](https://daikogit.github.io/vrana)
+  [<img align="right" src="https://media.giphy.com/media/51Uiuy5QBZNkoF3b2Z/giphy-downsized-large.gif" width="350" height="250"/>](https://daikogit.github.io/vrana)
 
 - Check out my web!
 - Linux is just awesome.
