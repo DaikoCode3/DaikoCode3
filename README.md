@@ -1,11 +1,9 @@
-## **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
+# **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
-  [<img align="right" alt="GIF" src="https://daikogit.github.io/dog-worried.gif" width="300"/>](https://daikogit.github.io/vrana)
-  [![GIF](https://daikogit.github.io/dog-worried.gif)](https://daikogit.github.io/vrana)
+  [<img align="right" src="https://media.giphy.com/media/51Uiuy5QBZNkoF3b2Z/giphy-downsized-large.gif" width="500" height="250"/>](https://daikogit.github.io/vrana)
 
-https://daikogit.github.io/dog-worried.gif
 - Check out my web!
-- GNU/Linux is great. 
+- Linux is just awesome.
 
 **Some of the stuff I often use:** 
 
@@ -33,5 +31,6 @@ https://daikogit.github.io/dog-worried.gif
                      |_____|        |_____|         ~ - . _ _ _ _ _>
 
 ```
-
-###### Most of my repos are private...
+<div align="center">
+ <h6>Most of my repos are private ❤️</h6>
+</div>
