@@ -7,7 +7,7 @@
 
 **Some of the stuff I often use:** 
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,tailwindcss,javascript,jquery,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,tailwind,js,jquery,html,css,sqlite)](https://skillicons.dev)
 
 ### **『🚧』 𝙱𝚎𝚠𝚊𝚛𝚎, 𝚂𝚝𝚎𝚐𝚘𝚜𝚊𝚞𝚛𝚞𝚜!**
 
