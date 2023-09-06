@@ -1,7 +1,7 @@
 # **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕**
 ***The quick brown fox jumps over the lazy dog.***
 [<img align="right" src="https://media.giphy.com/media/51Uiuy5QBZNkoF3b2Z/giphy-downsized-large.gif" width="350" height="250"/>](https://daikogit.github.io/vrana)
-<br>
+
 - Check out my web!
 - Linux is just awesome.
 
@@ -9,7 +9,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,tailwind,js,jquery,html,css,sqlite)](https://skillicons.dev)
 
+<br>
+
 ### **『🚧』 𝙱𝚎𝚠𝚊𝚛𝚎, 𝚂𝚝𝚎𝚐𝚘𝚜𝚊𝚞𝚛𝚞𝚜!**
+
+<br>
 
 ```text 
  _______________________
