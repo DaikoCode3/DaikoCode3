@@ -12,9 +12,9 @@
 
 **Some stuff I use:** 
 
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,flask,tailwind,godot,blender)](https://skillicons.dev)
+<img src="http://daikoje.borec.cz/python.png" width="48"/><img src="http://daikoje.borec.cz/kotlin.png" width="48"/><img src="http://daikoje.borec.cz/flask.png" width="48"/><img src="http://daikoje.borec.cz/tailwind.png" width="48"/><img src="http://daikoje.borec.cz/godot.png" width="48"/><img src="http://daikoje.borec.cz/blender.png" width="48"/><img src="http://daikoje.borec.cz/javascript.png" width="48"/><img src="http://daikoje.borec.cz/html.png" width="48"/><img src="http://daikoje.borec.cz/css.png" width="48"/><img src="http://daikoje.borec.cz/sqlite.png" width="48"/><img src="http://daikoje.borec.cz/socketio.png" width="48"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,sqlite)](https://skillicons.dev)
+(these icons are under development... gimme time brudah)
 
 
 ### **『🚧』 𝙱𝚎𝚠𝚊𝚛𝚎, 𝚂𝚝𝚎𝚐𝚘𝚜𝚊𝚞𝚛𝚞𝚜!**
