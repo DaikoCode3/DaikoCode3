@@ -10,7 +10,7 @@
 
 <br>
 
-**Some of the stuff I often use:** 
+**Some stuff I often use:** 
 
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,flask,tailwind,unreal,blender,js,jquery,html,css,cpp,sqlite)](https://skillicons.dev)
 
