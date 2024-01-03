@@ -5,7 +5,7 @@
 <br>
 
 ***The quick brown fox jumps over the lazy dog.***
-- Check out my web!
+- [The Best Mother F*cking Website](https://thebestmotherfucking.website/) Is Life Style.
 - Linux is just awesome.
 
 <br>
@@ -16,7 +16,7 @@
 
 <img src="http://daikoje.borec.cz/tailwind.png" width="48"/> <img src="http://daikoje.borec.cz/flask.png" width="48"/> <img src="http://daikoje.borec.cz/jquery.png" width="48"/> <img src="http://daikoje.borec.cz/socketio.png" width="48"/> <img src="http://daikoje.borec.cz/sqlite.png" width="48"/> <img src="http://daikoje.borec.cz/godot.png" width="48"/>
 
-(these icons are under development... gimme time brudah)
+*These icons are purrfect. I know!*
 
 
 ### **『🚧』 𝙱𝚎𝚠𝚊𝚛𝚎, 𝚂𝚝𝚎𝚐𝚘𝚜𝚊𝚞𝚛𝚞𝚜!**
